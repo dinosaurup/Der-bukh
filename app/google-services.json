@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "842272752721",
+    "firebase_url": "https://ujicoba2-e73be.firebaseio.com",
+    "project_id": "ujicoba2-e73be",
+    "storage_bucket": "ujicoba2-e73be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842272752721:android:91aa50dca763d74d416470",
+        "android_client_info": {
+          "package_name": "com.maloop.ujicoba2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842272752721-5k401e1hqptdni5cpb6ll32aj6312vak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu-dA9pfDX9Qq6fHUe1B-GDpJAsjLqQG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842272752721-5k401e1hqptdni5cpb6ll32aj6312vak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
